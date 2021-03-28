@@ -1,2 +1,2 @@
-# ICAI-BoS-Knowledge-Portal
+# CA-Students-OpenSourceKnowledge
 BoS Knowledge Portal is a repository of study content for students. All the publications of Board of Studies including Study Material, Revision Test Papers, Suggested Answers, Supplementary Study Material, Mock Test Papers, Sample Questions and previous attempts’ question papers are available here in PDF format. The monthly Students’ Journal - The Chartered Accountant Student can also be accessed here in PDF format.  Students can refer to all the relevant material issued by ICAI through this portal, whilst preparing for their examinations.
